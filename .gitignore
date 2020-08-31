@@ -1,0 +1,9 @@
+/public/
+/.idea/
+/resources/
+/vendor/
+
+*.swp
+*.swo
+.DS_Store
+*~
