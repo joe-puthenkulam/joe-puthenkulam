@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Joe Puthenkulam</title>
+		<link>https://joe.puthenkulam.ca/posts/</link>
+		<description>Recent content in Posts on Joe Puthenkulam</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+		<atom:link href="https://joe.puthenkulam.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Lorem</title>
+			<link>https://joe.puthenkulam.ca/posts/example/</link>
+			<pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://joe.puthenkulam.ca/posts/example/</guid>
+			<description>Pug in art party meditation intelligentsia, etsy wayfarers vaporware before they sold out gochujang. Whatever kale chips retro fashion axe, ea magna raclette. Qui est crucifix dolor street art coloring book ramps taiyaki shabby chic hella chicharrones. Vape squid irony fugiat fingerstache.</description>
+			<content type="html"><![CDATA[<p>Pug in art party meditation intelligentsia, etsy wayfarers vaporware before they sold out gochujang. Whatever kale chips retro fashion axe, ea magna raclette. Qui est crucifix dolor street art coloring book ramps taiyaki shabby chic hella chicharrones. Vape squid irony fugiat fingerstache.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

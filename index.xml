@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joe Puthenkulam</title>
+    <link>https://joe.puthenkulam.ca/</link>
+    <description>Recent content on Joe Puthenkulam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://joe.puthenkulam.ca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem</title>
+      <link>https://joe.puthenkulam.ca/posts/example/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://joe.puthenkulam.ca/posts/example/</guid>
+      <description>Pug in art party meditation intelligentsia, etsy wayfarers vaporware before they sold out gochujang. Whatever kale chips retro fashion axe, ea magna raclette. Qui est crucifix dolor street art coloring book ramps taiyaki shabby chic hella chicharrones. Vape squid irony fugiat fingerstache.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://joe.puthenkulam.ca/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://joe.puthenkulam.ca/about/</guid>
+      <description>Who am I I am a Computer Engineering student at the University of British Columbia.
+I&amp;rsquo;m inexperienced operating systems designer, and have implemented numerous swap space implementations that know no match.
+ When I wrote the swap space implementation for UNIX, I called Joe for advice, no one knows swap like Joe.
+&amp;ndash; Ghandi Interests Outside of school I enjoy spend time writing and producing music.</description>
+    </item>
+    
+  </channel>
+</rss>
