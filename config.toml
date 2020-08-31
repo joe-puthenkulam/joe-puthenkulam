@@ -1,4 +1,4 @@
-baseURL = "http://joe.puthenkulam.ca/"
+baseURL = "https://joe.puthenkulam.ca/"
 languageCode = "en-us"
 title = "Joe Puthenkulam"
 theme = "hermit"
